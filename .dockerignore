@@ -1,0 +1,6 @@
+data/
+db.sqlite3
+.git
+.gitignore
+__pycache__/
+*.pyc
